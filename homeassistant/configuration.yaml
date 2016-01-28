@@ -1,0 +1,34 @@
+homeassistant:
+  temperature_unit: C
+  time_zone: America/Vancouver
+
+# Discover some devices automatically
+# discovery:
+
+# Checks for available updates
+updater:
+
+# Enables the frontend
+frontend:
+
+# Track the sun
+sun:
+
+# Allows you to issue voice commands from the frontend
+conversation:
+
+# View all events in a logbook
+logbook:
+
+# Show links to resources in log and frontend
+# introduction:
+
+# Enables support for tracking state changes over time.
+history:
+
+http:           !include authentication.yaml
+mqtt:           !include mqtt.yaml
+zone:           !include zones.yaml
+device_tracker: !include devices/device_tracker.yaml
+thermostat:     !include devices/thermostat.yaml
+notification:   !include devices/notification.yaml

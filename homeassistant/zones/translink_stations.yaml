@@ -1,0 +1,236 @@
+- name: "Stadium–Chinatown Station"
+  latitude: 49.27944
+  longitude: -123.10944
+  radius: 100
+  icon: mdi:train
+- name: "Braid Station"
+  latitude: 49.23322
+  longitude: -122.88283
+  radius: 100
+  icon: mdi:train
+- name: "New Westminster Station"
+  latitude: 49.201354
+  longitude: -122.912716
+  radius: 100
+  icon: mdi:train
+- name: "Burrard Station"
+  latitude: 49.285616
+  longitude: -123.120157
+  radius: 100
+  icon: mdi:train
+- name: "Oakridge–41st Avenue Station"
+  latitude: 49.23306
+  longitude: -123.11667
+  radius: 100
+  icon: mdi:train
+- name: "22nd Street Station"
+  latitude: 49.20000
+  longitude: -122.94917
+  radius: 100
+  icon: mdi:train
+- name: "Langara–49th Avenue Station"
+  latitude: 49.22639
+  longitude: -123.11611
+  radius: 100
+  icon: mdi:train
+- name: "Bridgeport Station"
+  latitude: 49.19556
+  longitude: -123.12611
+  radius: 100
+  icon: mdi:train
+- name: "Yaletown–Roundhouse Station"
+  latitude: 49.27455
+  longitude: -123.12190
+  radius: 100
+  icon: mdi:train
+- name: "Broadway–City Hall Station"
+  latitude: 49.26278
+  longitude: -123.11444
+  radius: 100
+  icon: mdi:train
+- name: "Renfrew Station"
+  latitude: 49.25889
+  longitude: -123.04528
+  radius: 100
+  icon: mdi:train
+- name: "Joyce–Collingwood Station"
+  latitude: 49.23835
+  longitude: -123.031704
+  radius: 100
+  icon: mdi:train
+- name: "Lake City Way Station"
+  latitude: 49.25458
+  longitude: -122.93903
+  radius: 100
+  icon: mdi:train
+- name: "Metrotown Station"
+  latitude: 49.225463
+  longitude: -123.003182
+  radius: 100
+  icon: mdi:train
+- name: "Holdom Station"
+  latitude: 49.26469
+  longitude: -122.98222
+  radius: 100
+  icon: mdi:train
+- name: "Royal Oak Station"
+  latitude: 49.220004
+  longitude: -122.988381
+  radius: 100
+  icon: mdi:train
+- name: "Columbia Station"
+  latitude: 49.20476
+  longitude: -122.906161
+  radius: 100
+  icon: mdi:train
+- name: "Main Street–Science World Station"
+  latitude: 49.273114
+  longitude: -123.100348
+  radius: 100
+  icon: mdi:train
+- name: "Nanaimo Station"
+  latitude: 49.248184
+  longitude: -123.05564
+  radius: 100
+  icon: mdi:train
+- name: "King Edward Station"
+  latitude: 49.24917
+  longitude: -123.11583
+  radius: 100
+  icon: mdi:train
+- name: "Rupert Station"
+  latitude: 49.26083
+  longitude: -123.03278
+  radius: 100
+  icon: mdi:train
+- name: "Sea Island Centre Station"
+  latitude: 49.19306
+  longitude: -123.15806
+  radius: 100
+  icon: mdi:train
+- name: "YVR–Airport Station"
+  latitude: 49.19417
+  longitude: -123.17833
+  radius: 100
+  icon: mdi:train
+- name: "King George Station"
+  latitude: 49.1827
+  longitude: -122.8446
+  radius: 100
+  icon: mdi:train
+- name: "Surrey Central Station"
+  latitude: 49.189473
+  longitude: -122.847871
+  radius: 100
+  icon: mdi:train
+- name: "Edmonds Station"
+  latitude: 49.212054
+  longitude: -122.959226
+  radius: 100
+  icon: mdi:train
+- name: "Vancouver City Centre Station"
+  latitude: 49.28202
+  longitude: -123.11875
+  radius: 100
+  icon: mdi:train
+- name: "VCC–Clark Station"
+  latitude: 49.265753
+  longitude: -123.078825
+  radius: 100
+  icon: mdi:train
+- name: "Patterson Station"
+  latitude: 49.22967
+  longitude: -123.012376
+  radius: 100
+  icon: mdi:train
+- name: "Sperling–Burnaby Lake Station"
+  latitude: 49.25914
+  longitude: -122.96391
+  radius: 100
+  icon: mdi:train
+- name: "Sapperton Station"
+  latitude: 49.22443
+  longitude: -122.88964
+  radius: 100
+  icon: mdi:train
+- name: "Gilmore Station"
+  latitude: 49.26489
+  longitude: -123.01351
+  radius: 100
+  icon: mdi:train
+- name: "Gateway Station"
+  latitude: 49.198945
+  longitude: -122.850559
+  radius: 100
+  icon: mdi:train
+- name: "Granville Station"
+  latitude: 49.282750
+  longitude: -123.116639
+  radius: 100
+  icon: mdi:train
+- name: "Aberdeen Station"
+  latitude: 49.18389
+  longitude: -123.13639
+  radius: 100
+  icon: mdi:train
+- name: "Scott Road Station"
+  latitude: 49.20442
+  longitude: -122.874157
+  radius: 100
+  icon: mdi:train
+- name: "Commercial–Broadway Station"
+  latitude: 49.26250
+  longitude: -123.06889
+  radius: 100
+  icon: mdi:train
+- name: "Production Way–University Station"
+  latitude: 49.25337
+  longitude: -122.91815
+  radius: 100
+  icon: mdi:train
+- name: "Lansdowne Station"
+  latitude: 49.17472
+  longitude: -123.13639
+  radius: 100
+  icon: mdi:train
+- name: "Olympic Village Station"
+  latitude: 49.26639
+  longitude: -123.11583
+  radius: 100
+  icon: mdi:train
+- name: "Richmond–Brighouse Station"
+  latitude: 49.16806
+  longitude: -123.13639
+  radius: 100
+  icon: mdi:train
+- name: "29th Avenue Station"
+  latitude: 49.244084
+  longitude: -123.045931
+  radius: 100
+  icon: mdi:train
+- name: "Brentwood Town Centre Station"
+  latitude: 49.26633
+  longitude: -123.00163
+  radius: 100
+  icon: mdi:train
+- name: "Waterfront Station (Vancouver)"
+  latitude: 49.28583
+  longitude: -123.11167
+  radius: 100
+  icon: mdi:train
+- name: "Lougheed Town Centre Station"
+  latitude: 49.24846
+  longitude: -122.89702
+  radius: 100
+  icon: mdi:train
+- name: "Marine Drive Station"
+  latitude: 49.20972
+  longitude: -123.11694
+  radius: 100
+  icon: mdi:train
+- name: "Templeton Station"
+  latitude: 49.19667
+  longitude: -123.14639
+  radius: 100
+  icon: mdi:train
+
