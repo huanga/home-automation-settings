@@ -1,0 +1,11 @@
+homeassistant/authentication.yaml
+homeassistant/devices/notification.yaml
+homeassistant/devices/thermostat.yaml
+homeassistant/.HA_VERSION
+homeassistant/home-assistant.db
+homeassistant/home-assistant.log
+homeassistant/known_devices.yaml
+homeassistant/lib
+homeassistant/mqtt.yaml
+homeassistant/zones/residence.yaml
+
