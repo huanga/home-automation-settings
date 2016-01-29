@@ -31,6 +31,7 @@ mqtt:           !include mqtt.yaml
 zone:           !include zones.yaml
 device_tracker: !include devices/device_tracker.yaml
 thermostat:     !include devices/thermostat.yaml
-notify:         !include devices/notification.yaml
 
+script:         !include scripts.yaml
+notify:         !include devices/notification.yaml
 automation:     !include automation.yaml
