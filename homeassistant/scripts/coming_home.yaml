@@ -1,0 +1,9 @@
+sequence:
+- execute_service: thermostat.set_away_mode
+  service_data:
+    entity: thermostat.bedroom
+    away_mode: false
+- execute_service: thermostat.set_temperature
+  service_data:
+    entity: thermostat.bedroom
+    temperature: 21

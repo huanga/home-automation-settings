@@ -1,0 +1,14 @@
+alias: "(Afterwork) Entering Surrey Central Station"
+trigger:
+- platform: zone
+  event: leave
+  zone: zone.surrey_central_station
+  entity_id: device_tracker.andy_iphone
+condition: 
+- platform: time
+  after: '17:00'
+- platform: time
+  before: '20:00'
+action:
+  service: homeassistant.turn_on
+  entity: script.coming_home  
