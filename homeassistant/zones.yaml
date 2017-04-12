@@ -1,5 +1,6 @@
 - !include zones/residence.yaml
 - !include zones/work_bbtv_hornby.yaml
+- !include zones/work_bbtv_melville.yaml
 - !include zones/work_sfu_university.yaml
 - !include zones/skytrain_stadium.yaml
 - !include zones/skytrain_braid.yaml

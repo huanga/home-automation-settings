@@ -1,5 +1,5 @@
 homeassistant:
-  temperature_unit: C
+  unit_system: metric
   time_zone: America/Vancouver
 
 # Discover some devices automatically
@@ -12,7 +12,7 @@ updater:
 frontend:
 
 # Track the sun
-sun:
+# sun:
 
 # Allows you to issue voice commands from the frontend
 conversation:
@@ -27,11 +27,12 @@ logbook:
 history:
 
 http:           !include authentication.yaml
+nest:           !include nest_authentication.yaml
 mqtt:           !include mqtt.yaml
 zone:           !include zones.yaml
 device_tracker: !include devices/device_tracker.yaml
-thermostat:     !include devices/thermostat.yaml
-
+climate:        !include devices/thermostat.yaml
+sensor:         !include sensors.yaml
 script:         !include scripts.yaml
 notify:         !include devices/notification.yaml
 automation:     !include automation.yaml

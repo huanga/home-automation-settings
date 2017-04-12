@@ -1,1 +1,3 @@
 - !include automation/metrotown_notify.yaml
+- !include automation/22nd_notify.yaml
+- !include automation/thermostat_home.yaml
